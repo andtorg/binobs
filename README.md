@@ -11,6 +11,6 @@ To install, simply copy the two files (ALdata.inc and ALprograms.ssc) in the def
 are saved. The actual path may vary according to the operative system. For instance, on an Ubuntu Linux distribution it is
 /usr/share/stellarium/scripts.
 
-Please feel free to report any issue. Any suggestions are welcomed.
+Please feel free to report any issue. Any suggestions are welcome.
 
 Clear skies.

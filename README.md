@@ -12,3 +12,5 @@ are saved. The actual path may vary according to the operative system. For insta
 /usr/share/stellarium/scripts.
 
 Please feel free to report any issue. Any suggestions are welcomed.
+
+Clear skies.

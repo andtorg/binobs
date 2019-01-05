@@ -1,7 +1,7 @@
 # binobs
 ### Binocular observing programs for Stellarium
 
-This script draws on Stellarium all the [Messier objects](https://www.astroleague.org/programs/BinoDS_Intro) 
+This script labels on Stellarium all the [Messier objects](https://www.astroleague.org/programs/BinoDS_Intro) 
 and the [double stars](https://www.astroleague.org/al/obsclubs/binomess/binomess.html) suitable for binocular observation
 as indicated in the programs envisaged by Astronomical League. 
 
